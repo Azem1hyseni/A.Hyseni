@@ -1,0 +1,20 @@
+repo_name: Azem1hyseni/A.Hyseni
+report_id: d23d0cc7409a8053d4696749c30ae0bc
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T10:45:11+00:00'
+requested_by: Azem1hyseni
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Azem1hyseni/A.Hyseni
+  detection_source: Repo Metadata
